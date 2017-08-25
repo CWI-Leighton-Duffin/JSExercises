@@ -7,6 +7,7 @@
         var entry;
         var average;
         var scores = [];
+        var highestScore = 0;
         var total = 0;
         var show = "The test scores:\n";
 
@@ -28,11 +29,14 @@
         for (var i = 0; i < scores.length; i++) {
             total = total + scores[i];       //both are numbers so adds
             show = show + scores[i] + "\n";  //strings & numbers so concatenates
+            if (scores[i] > highestScore) {
+                highestScore = scores[i];
+            }
         }
 
         //then calculate the average and display
         average = parseInt(total/scores.length);
-        alert(show + "\nAverage score is " + average);
+        alert(show + "\nAverage score is " + average + "<br>Highest score is " + highestScore);
     </script>
 </head>
 <body>
