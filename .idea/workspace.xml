@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="799055ce-11c3-415b-9d5a-781ba20cae67" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/test_scores/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/test_scores/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch05/test_scores/test_scores.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch04/future_value/index.html" afterPath="$PROJECT_DIR$/ch04/future_value/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/faqs/faqs.js" afterPath="$PROJECT_DIR$/ch05/faqs/faqs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/register_table/index.html" afterPath="$PROJECT_DIR$/ch05/register_table/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/register_table/register.js" afterPath="$PROJECT_DIR$/ch05/register_table/register.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,21 +39,21 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+              <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/ch05/register_table/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="391">
-                      <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+                    <state relative-caret-position="612">
+                      <caret line="36" column="12" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
                       <folding />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="register_account.html" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/ch05/register_table/register_account.html">
+              <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/ch05/test_scores/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="0">
-                      <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                    <state relative-caret-position="255">
+                      <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
                       <folding />
                     </state>
                   </provider>
@@ -68,17 +67,27 @@
                 <entry file="file://$PROJECT_DIR$/ch05/faqs/faqs.js">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="204">
-                      <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                      <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                       <folding />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="register.js" pinned="false" current-in-tab="true">
+              <file leaf-file-name="register.js" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/ch05/register_table/register.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="187">
+                    <state relative-caret-position="323">
                       <caret line="41" column="89" lean-forward="false" selection-start-line="41" selection-start-column="89" selection-end-line="41" selection-end-column="89" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="test_scores.js" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/ch05/test_scores/test_scores.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="85">
+                      <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                       <folding />
                     </state>
                   </provider>
@@ -100,8 +109,18 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="register.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="register.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ch05/register_table/register.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ch05/test_scores/styles.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
                   <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -197,7 +216,7 @@
               <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="ch05" type="462c0819:PsiDirectoryNode" />
-              <item name="register_table" type="462c0819:PsiDirectoryNode" />
+              <item name="test_scores" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,6 +308,7 @@
     <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/exercises/ch04/future_value/index.html" />
     <configuration name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/exercises/ch04/future_value/index.html" />
     <configuration name="index.html (4)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/exercises/ch05/faqs/index.html" />
+    <configuration name="index.html (5)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/exercises/ch05/test_scores/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/exercises/ch05/register_table/index.html" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
@@ -300,10 +320,10 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (5)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (5)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +343,7 @@
       <workItem from="1503674356466" duration="27000" />
       <workItem from="1503707281437" duration="3821000" />
       <workItem from="1503932461738" duration="1779000" />
-      <workItem from="1503935036846" duration="2539000" />
+      <workItem from="1503935036846" duration="3048000" />
     </task>
     <task id="LOCAL-00001" summary="initial WS commit">
       <created>1503507699637</created>
@@ -346,11 +366,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503710618280</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ch05 exercises">
+      <created>1503937591440</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503937591440</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18998000" />
+    <option name="totallyTimeSpent" value="19507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="86" y="-8" width="1602" height="1066" extended-state="6" />
@@ -386,7 +413,8 @@
     <MESSAGE value="initial WS commit" />
     <MESSAGE value="ch03 exercises" />
     <MESSAGE value="ch04 exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch04 exercises" />
+    <MESSAGE value="ch05 exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch05 exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -423,6 +451,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -572,6 +601,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -586,7 +616,7 @@
     <entry file="file://$PROJECT_DIR$/ch05/faqs/faqs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -607,14 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/register_table/register.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch05/register_table/register_account.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -625,16 +647,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch05/register_table/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+        <state relative-caret-position="612">
+          <caret line="36" column="12" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch05/register_table/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch05/test_scores/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch05/register_table/register.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="323">
           <caret line="41" column="89" lean-forward="false" selection-start-line="41" selection-start-column="89" selection-end-line="41" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch05/test_scores/test_scores.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch05/test_scores/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           <folding />
         </state>
       </provider>
