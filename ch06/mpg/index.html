@@ -13,8 +13,8 @@
             console.log("calculateMpg function has started");
             var miles = parseFloat($("miles").value);
             var gallons = parseFloat($("gallons").value);
-            console.log("miles = " + miles);
-            console.log("gallons = " + gallons);
+            window.alert("miles = " + miles);
+            window.alert("gallons = " + gallons);
             
             if (isNaN(miles) || isNaN(gallons)) {
                 $("error_message").firstChild.nodeValue = "Both entries must be numeric.";

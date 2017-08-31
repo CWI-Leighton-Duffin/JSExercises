@@ -5,7 +5,7 @@ var $ = function(id) {
 var joinList = function() {
     var emailAddress1 = $("email_address1").value;
     var emailAddress2 = $("email_address2").value;
-    var firstName = $("first_name").firstChild.nodeValue;
+    var firstName = $("first_name").value;
     var isValid = true;
 
     // validate the first email address
