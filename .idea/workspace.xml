@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="799055ce-11c3-415b-9d5a-781ba20cae67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/scores/scores/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/scores/scores/scores.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch09/scores/scores/scores.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/scores/scores/index.html" afterPath="$PROJECT_DIR$/ch09/scores/scores/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/scores/scores/scores.js" afterPath="$PROJECT_DIR$/ch09/scores/scores/scores.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,8 +31,8 @@
               <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/ch09/scores/scores/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="340">
-                      <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+                    <state relative-caret-position="255">
+                      <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
                       <folding />
                     </state>
                   </provider>
@@ -46,8 +45,8 @@
               <file leaf-file-name="scores.js" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/ch09/scores/scores/scores.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="153">
-                      <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+                    <state relative-caret-position="-382">
+                      <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
                       <folding />
                     </state>
                   </provider>
@@ -121,6 +120,7 @@
         <option value="$PROJECT_DIR$/ch07/change_calculator/change_calculator/calculate.js" />
         <option value="$PROJECT_DIR$/ch08/password/password/index.html" />
         <option value="$PROJECT_DIR$/ch08/password/password/password.js" />
+        <option value="$PROJECT_DIR$/ch09/scores/scores/index.html" />
         <option value="$PROJECT_DIR$/ch09/scores/scores/scores.js" />
       </list>
     </option>
@@ -308,7 +308,7 @@
       <workItem from="1503935036846" duration="11680000" />
       <workItem from="1504051700284" duration="1751000" />
       <workItem from="1504303831710" duration="69000" />
-      <workItem from="1504628366285" duration="2406000" />
+      <workItem from="1504628366285" duration="2560000" />
     </task>
     <task id="LOCAL-00001" summary="initial WS commit">
       <created>1503507699637</created>
@@ -359,11 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504303880526</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ch09">
+      <created>1504630791173</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1504630791173</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38383000" />
+    <option name="totallyTimeSpent" value="38537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="86" y="-8" width="1602" height="1066" extended-state="6" />
@@ -402,7 +409,8 @@
     <MESSAGE value="ch05 exercises" />
     <MESSAGE value="ch05, ch06, ch07, ch08 exercises" />
     <MESSAGE value="Project 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project 2" />
+    <MESSAGE value="Ch09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ch09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -759,18 +767,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch09/scores/scores/scores.js">
+    <entry file="file://$PROJECT_DIR$/ch09/scores/scores/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        <state relative-caret-position="255">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch09/scores/scores/index.html">
+    <entry file="file://$PROJECT_DIR$/ch09/scores/scores/scores.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        <state relative-caret-position="-382">
+          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
           <folding />
         </state>
       </provider>

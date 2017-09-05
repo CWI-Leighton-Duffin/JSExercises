@@ -1,5 +1,5 @@
-// var students = [];
-var students = [['Sam', 'Gamgee', '75'], ['Leighton', 'Duffin', '100'], ['Saphell', 'Zorlak', '10']];
+var students = [];
+// var students = [['Sam', 'Gamgee', '75'], ['Leighton', 'Duffin', '100'], ['Saphell', 'Zorlak', '10']];
 
 var $ = function (id) { return document.getElementById(id); };
 
